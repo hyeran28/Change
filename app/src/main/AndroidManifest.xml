@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:allowBackup="true"
@@ -28,8 +29,6 @@
 
 
         <activity android:name=".LabellingActivity"/>
-
-        <activity android:name=".AddActivity" />
 
     </application>
 

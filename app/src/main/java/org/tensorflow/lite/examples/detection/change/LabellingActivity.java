@@ -99,7 +99,7 @@ public class LabellingActivity extends AppCompatActivity {
                     maxPos = i;
                 }
             }
-            String[] classes = {"Apple", "Banana", "Orange"};
+            String[] classes = {"사과", "바나나", "오렌지"};
             result.setText(classes[maxPos]);
 
             // Releases model resources if no longer used.

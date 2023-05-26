@@ -47,7 +47,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@id/button2"
         android:layout_marginBottom="50dp"
-        android:text="Take Picture"
+        android:text="사진찍기"
         android:textAllCaps="false"
         android:textSize="21sp"
         android:textStyle="bold" />
@@ -59,7 +59,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerInParent="true"
         android:layout_marginBottom="16dp"
-        android:text="Launch Gallery"
+        android:text="갤러리"
         android:textAllCaps="false"
         android:textSize="21sp"
         android:textStyle="bold" />
